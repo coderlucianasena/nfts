@@ -13,7 +13,7 @@
 
     /* ========== Tipografia e Fonte ========== */
     /* .5rem = 8px | 1rem = 16px ... */
-    --body-font: 'Oxanium', cursive;
+    --body-font: 'Nunito', sans-serif;
     --biggest-font-size: 2.25rem;
     --h2-font-size: 1.25rem;
     --normal-font-size: .938rem;
